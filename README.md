@@ -1,5 +1,3 @@
-# Thomas DiNatale
-
 Product designer in Atlanta. Over a decade designing complex digital products,
 from native consumer apps to workflow-heavy software: dense screens, real data,
 and a lot of decisions about what to leave out. I do the design myself, not just
