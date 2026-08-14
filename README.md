@@ -16,10 +16,6 @@ it is private client work.
 - **[thomasdinatale.com](https://www.thomasdinatale.com/)**: portfolio site.
   Static HTML, CSS, and JS on Vercel.
 
-### Elsewhere
-
-- [Portfolio](https://www.thomasdinatale.com/)
-- [LinkedIn](https://www.linkedin.com/in/thomasdinatale/)
-- hi@thomasdinatale.com
+[LinkedIn](https://www.linkedin.com/in/thomasdinatale/) · hi@thomasdinatale.com
 
 Currently open to new work.
