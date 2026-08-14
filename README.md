@@ -1,16 +1,25 @@
-## Hi there 👋
+# Thomas DiNatale
 
-<!--
-**thomasdinatale/thomasdinatale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product designer in Atlanta. Over a decade designing complex digital products,
+from native consumer apps to workflow-heavy software: dense screens, real data,
+and a lot of decisions about what to leave out. I do the design myself, not just
+direct it.
 
-Here are some ideas to get you started:
+I trained as an electrical engineer and an architect before I designed software, which is where the habit of thinking in systems comes from.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What's here
+
+I design in Figma and work through implementation with Claude Code. What lands
+on GitHub is the code behind my own things, not libraries or packages. Most of
+it is private client work.
+
+- **[thomasdinatale.com](https://www.thomasdinatale.com/)**: portfolio site.
+  Static HTML, CSS, and JS on Vercel.
+
+### Elsewhere
+
+- [Portfolio](https://www.thomasdinatale.com/)
+- [LinkedIn](https://www.linkedin.com/in/thomasdinatale/)
+- hi@thomasdinatale.com
+
+Currently open to new work.
