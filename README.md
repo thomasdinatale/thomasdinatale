@@ -7,14 +7,11 @@ direct it.
 
 I trained as an electrical engineer and an architect before I designed software, which is where the habit of thinking in systems comes from.
 
-### What's here
+### How I work
 
 I design in Figma and work through implementation with Claude Code. What lands
 on GitHub is the code behind my own things, not libraries or packages. Most of
 it is private client work.
-
-- **[thomasdinatale.com](https://www.thomasdinatale.com/)**: portfolio site.
-  Static HTML, CSS, and JS on Vercel.
 
 [LinkedIn](https://www.linkedin.com/in/thomasdinatale/) · hi@thomasdinatale.com
 
