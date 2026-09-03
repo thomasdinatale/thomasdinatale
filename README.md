@@ -9,5 +9,3 @@ I trained as an electrical engineer and an architect before I designed software,
 I design in Figma and work through implementation with Claude Code. What lands
 on GitHub is the code behind my own things, not libraries or packages. Most of
 it is private client work.
-
-Currently open to new work: hi@thomasdinatale.com
